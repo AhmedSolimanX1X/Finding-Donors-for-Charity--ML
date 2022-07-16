@@ -9,7 +9,7 @@ The dataset for this project originates from the [UCI Machine Learning Repositor
 
 
 
-## This project contains three files:
+## This project contains five files:
 
 - `finding_donors.ipynb`: This is the main file where the research has been done 
 - `finding_donors..html`: The main file in HTML .
